@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1727860216 source:c:\projects\unisa_cos1512_intro_to_programming_concepts_2\2011_10_assignment_02\03_money\money.cpp
+	<iomanip>
+	<iostream>
+	"Money.h"
+
+1727860217 c:\projects\unisa_cos1512_intro_to_programming_concepts_2\2011_10_assignment_02\03_money\money.h
+	<iostream>
+
