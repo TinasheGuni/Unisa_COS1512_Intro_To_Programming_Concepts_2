@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745234603 source:c:\programming\unisa_cos1512_intro_to_programming_concepts_2\2019_10_assignment_01\04_student_essay\04_student_essay\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
