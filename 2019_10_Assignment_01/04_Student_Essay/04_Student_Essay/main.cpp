@@ -17,8 +17,6 @@ void changes(ifstream& inStream, ofstream& outStream) {
         inStream.get(next);
     }
 
-    // capitalize
-
 }
 
 int main()
